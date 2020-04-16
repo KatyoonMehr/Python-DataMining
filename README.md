@@ -1,5 +1,7 @@
 ## Python-MedicalCost
+
 #Predicting medical cost of hospitalization based on some factors
+
 #variables:
 ID	age	sex	bmi	children	smoker	region	charges	partner
 The dataset of insurance contains 10 columns. ID, age, sex, bmi of 1380 patients, whether they have
