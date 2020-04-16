@@ -14,5 +14,6 @@ no=0, smoker with 3 levels unknown=0, no=1, yes=2 and region with 4 levels north
 southeast=3 and southwest=4 is done.
 
 ##Linear Regression
+
 #model:
 y = -17126.4998 + 221.689 age - 276.906 sex_C + 19300.7 smoker_C - 135.451 region_C - 709.801 partner_C
